@@ -6,3 +6,6 @@ $ source projectname/bin/activate
 (venv) $ ipython kernel install --user --name=projectname
 
 Open and close vcode
+
+Reference:
+https://anbasile.github.io/posts/2017-06-25-jupyter-venv/
